@@ -1,5 +1,5 @@
 {
-   "name": "@malloy-publisher/sdk",
+   "name": "malloy-publisher-sdk-test",
    "description": "Malloy Publisher SDK",
    "version": "0.0.24",
    "type": "module",
